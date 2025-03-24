@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://gegew190.github.io/sitemap.xml
